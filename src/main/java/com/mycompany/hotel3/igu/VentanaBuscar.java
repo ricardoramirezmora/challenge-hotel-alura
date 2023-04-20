@@ -183,7 +183,7 @@ public class VentanaBuscar extends javax.swing.JFrame {
             }   
         }
         else{
-            mostrarMensaje("No hay nada para eliminar en la tabla", "Error", "Error");
+            mostrarMensaje("No hay nada para eliminar en la tabla", "Error", "Error al eliminar");
         }
     }//GEN-LAST:event_btnEditarActionPerformed
     
