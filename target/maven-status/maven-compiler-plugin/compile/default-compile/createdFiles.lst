@@ -1,0 +1,12 @@
+com\mycompany\hotel3\logica\Usuarios.class
+com\mycompany\hotel3\logica\ControladoraLogica.class
+com\mycompany\hotel3\igu\Login$2.class
+com\mycompany\hotel3\persistencia\ControladoraPersistencia.class
+com\mycompany\hotel3\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\hotel3\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\hotel3\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\hotel3\igu\Login.class
+com\mycompany\hotel3\logica\Usuarios_.class
+com\mycompany\hotel3\persistencia\UsuariosJpaController.class
+com\mycompany\hotel3\igu\Login$1.class
+com\mycompany\hotel3\Hotel3.class
