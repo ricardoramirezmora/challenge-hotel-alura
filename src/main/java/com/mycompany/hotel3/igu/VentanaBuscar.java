@@ -5,7 +5,7 @@ import com.mycompany.hotel3.logica.Huespedes;
 import java.util.List;
 import javax.swing.JDialog;
 import javax.swing.JOptionPane;
-import javax.swing.table.DefaultTableModel;
+import javax.swing.table.DefaultTableModel; 
 
 
 public class VentanaBuscar extends javax.swing.JFrame {

@@ -2,7 +2,6 @@ package com.mycompany.hotel3.igu;
 
 import com.mycompany.hotel3.logica.ControladoraLogica;
 import com.mycompany.hotel3.logica.Huespedes;
-import com.mycompany.hotel3.logica.Reservas;
 import javax.swing.JDialog;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
